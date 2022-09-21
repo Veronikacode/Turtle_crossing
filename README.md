@@ -11,4 +11,4 @@ To run the project just clone the repo, go into the Turtle_crossing folder and r
 
 ## Controls
 
-### Arrow Keys
+### Up Arrow Key
